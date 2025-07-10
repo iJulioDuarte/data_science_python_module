@@ -28,7 +28,7 @@ Este repositório reúne os exercícios e análises desenvolvidos ao longo do me
 
 ## 📈 Exemplos de Visualizações
 
-> Inserir imagens ou prints de gráficos gerados (use Markdown: `![Gráfico exemplo](path/para/imagem.png)`)
+![Gráfico de Distribuição](images/idade_salario.png)
 
 ## 🚀 Próximos Passos
 
