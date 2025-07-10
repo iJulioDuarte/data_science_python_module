@@ -18,20 +18,6 @@ Este repositório reúne os exercícios e análises desenvolvidos ao longo do me
 - Matplotlib
 - Seaborn
 
-## 📁 Estrutura do Repositório
-
-📦 data_science_python_module
-├── 📁 data/ → Dados utilizados para análise
-├── 📁 notebooks/ → Notebooks organizados por tema
-│ ├── 01_intro.ipynb
-│ ├── 02_pandas.ipynb
-│ └── 03_visualizacoes.ipynb
-├── README.md
-
-markdown
-Copiar
-Editar
-
 ## 🔍 Conteúdo Estudado
 
 - Manipulação de dados com Pandas (DataFrames, Series, filtros, joins)
