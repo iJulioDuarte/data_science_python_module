@@ -41,7 +41,7 @@ Este repositório reúne os exercícios e análises desenvolvidos ao longo do me
 
 Sou um desenvolvedor em transição para a área de **Ciência de Dados**, com foco em construir um portfólio sólido e aplicar soluções baseadas em dados. Este projeto marca o início dessa jornada!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ijulioduarte)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ijulio-duarte/)
 - 💻 [GitHub](https://github.com/iJulioDuarte)
 
 ---
